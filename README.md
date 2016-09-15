@@ -48,3 +48,9 @@ Richard Stallman est le **fondateur de GNU/Linux**, il est considéré comme le 
 - [Wikipedia](https://fr.wikipedia.org/wiki/Richard_Stallman)
 
 ---
+
+## Comment fonctionnent les bang de Duck Duck Go ? 
+Le moter de recherche Duck Duck Go a créé une fonctionnalité qui permet de **lancer la recherche sur un site en particulier**. Les bang fonctionnent grâce à la structure *!bang* en remplaçant bang par le raccourci attribué au site. Par exemple, pour rechercher une vidéo youtube directement depuis Duck Duck Go, on peut utiliser la recherche *!yt Rickroll*. Il y a à l'heure actuelle plus de 8500 bang fonctionnels. 
+- [Duck Duck Go](https://duckduckgo.com/bang)
+
+---
