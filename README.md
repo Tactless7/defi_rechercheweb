@@ -35,3 +35,10 @@ GNU est un projet de système d'exploitation composé entièrement de **logiciel
 
 ---
 
+## Quelles sont les différences entre le Http et le Https
+L'ajout du s à Http signifie que les échanges entre la machine et le serveur sont **cryptées** et ne peuvent être lues que par les deux parties. Le protocole Https est très utile dans le cas d'échange de données condidentielles comme la consultation de son compte en banque par exemple. Sans lui, il est facile de récupérer les informations. 
+- [InstantSSL](https://www.instantssl.com/https-tutorials/what-is-https.html)
+- [Culture Informatique](http://www.culture-informatique.net/cest-quoi-difference-http-https/)
+
+---
+
