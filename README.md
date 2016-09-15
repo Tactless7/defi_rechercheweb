@@ -42,3 +42,9 @@ L'ajout du s à Http signifie que les échanges entre la machine et le serveur s
 
 ---
 
+## Qui est Richard Stallman ? 
+Richard Stallman est le **fondateur de GNU/Linux**, il est considéré comme le père des logiciels libres. Stallman est à l'origine de la fondation Free Software Foundation qui a porté le projet GNU/Linux. Ce projet avait pour but de **développer un système d'exploitation totalement libre de droit** protégé par la license libre GPL (General Public License). Richard Stallman est aussi l'auteur de logiciels tels que Emacs.
+- [Association April](https://www.april.org/qui-est-richard-stallman-quest-ce-que-gnu)
+- [Wikipedia](https://fr.wikipedia.org/wiki/Richard_Stallman)
+
+---
