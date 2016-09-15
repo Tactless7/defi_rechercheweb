@@ -6,6 +6,7 @@ Parmi les communautés de développeurs à Toulouse, on peut notamment compter *
 - [Meet Up](http://www.meetup.com/fr-FR/cities/fr/toulouse/)
 - [La Cantine](http://lacantine-toulouse.org/)
 - [La French Tech](http://www.frenchtechtoulouse.com/)
+***
 
 
 ## Quels sont les prochains rendez-vous tech de Toulouse ?
@@ -13,3 +14,12 @@ Fin Septembre se tiendra à Toulouse la **Mêlée Numérique**. L'évènement au
 De son côté, la French Tech Toulouse lance l'évènement **Human in Tech** entre le 22 septembre et le 7 octobre avec 15 jours de rendez-vous autour de l'innovation, de l'entreprenariat et du numérique. 
 - [La Mêlée Numérique](http://www.meleenumerique.com/)
 - [La French Tech](http://www.frenchtechtoulouse.com/)
+***
+
+## Qui est Aaron Swartz ?
+Aaron Swartz était un **programmeur informatique activiste surdoué**. A l'origine des Flux RSS et ayant participé à la création de Reddit, Swartz militait pour l'open source. En téléchargeant une base de données composée d'articles payants, il a été attaqué en justice et peu de temps avant son procès, il se suicide.
+- [Slate](http://www.slate.fr/story/68985/aaron-swartz-suicide)
+- [Le Monde](http://www.lemonde.fr/pixels/article/2014/06/30/aaron-swartz-itineraire-d-un-enfant-du-net_4447830_4408996.html)
+***
+
+
